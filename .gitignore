@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Harvested reports and generated charts
+captures/
+*.png
+
+# Upstream reverse-engineering clone (vendored reference, not our code)
+pkdl-a1/
