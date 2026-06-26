@@ -131,3 +131,7 @@ The serial configuration protocol (`5a a5` framing, field layout, additive check
 reverse-engineered by **[peahonen/pkdl-a1](https://github.com/peahonen/pkdl-a1)**; `protocol.py`
 re-implements that wire format so this tool is self-contained. Data readout is the device's own
 Elitech-style "shadow data" auto-PDF/CSV behaviour — no protocol required.
+
+## License
+
+Released under the [MIT License](LICENSE).
